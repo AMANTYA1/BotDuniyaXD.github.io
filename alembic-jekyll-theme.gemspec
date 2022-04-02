@@ -3,12 +3,12 @@
 Gem::Specification.new do |spec|
   spec.name          = "alembic-jekyll-theme"
   spec.version       = "4.1.0"
-  spec.authors       = ["Zaid Robot"]
-  spec.email         = ["itsunknown122@gmail.com"]
+  spec.authors       = ["AMANTYA1"]
+  spec.email         = ["nullcooder@gmail.com"]
 
   spec.summary       = %q{A Jekyll boilerplate theme designed to be a starting point for any Jekyll website.}
-  spec.description   = "This Website Designed By [Zaid](https://t.me/Timesisnotwaiting) To Make Affective Information About Zaid 🤨."
-  spec.homepage      = "https://zaid-robot.github.io/"
+  spec.description   = "This Website Designed By [Null Coder](https://t.me/Shubhanshutya) To Make Affective Information About Zaid 🤨."
+  spec.homepage      = "https://BotDuniyaXd.github.io/"
   spec.license       = "MIT"
 
   spec.metadata["plugin_type"] = "theme"
