@@ -1,41 +1,49 @@
 ---
-title: About Zaid Robot
+title: About BotDuniya
 feature_text: |
-  ## Zaid Robot
-  ᴀɴ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ᴡɪᴛʜ ꜱᴏᴍᴇ ꜰᴜɴ ᴇxᴛʀᴀꜱ ;)
-feature_image: "https://telegra.ph/file/8cbad768da9799f9f0073.jpg"
-excerpt: "This Website Designed By [Zaid](https://t.me/Timesisnotwaiting) To Make Affective Information About Zaid 🤨."
+  ## Xd
+  BotDuniyaXd open in 2022 By @Shubhanshutya ;)
+feature_image: "https://telegra.ph/file/7ac332911fd87b7482e8f.jpg"
+excerpt: "This Website Designed By [Null Coder](https://t.me/Shubhanshutya) To Make Affective Information About BotDuniya."
 ---
 
-Zaid is a Safest and affective [Telegram](https://t.me/Zaid2_Robot) Management Bot. Some Extra Features.
+BOTDUNIYA Bot list  [here](https://t.me/BotDuniyaXD/23) Management, music, string Bot. Soon more.
 
-{% include button.html text="Follow me" icon="github" link="https://github.com/ITZ-ZAID" color="#0366d6" %} {% include button.html text="Add Zaid Robot ➕" link="https://t.me/Zaid2_Robot?startgroup=true" color="#f68140" %} {% include button.html text="Support" icon="telegram" link="https://t.me/Superior_Support" color="#0d94e7" %} {% include button.html text="Updates Channel ⚗️" link="https://t.me/Superior_Bots" %} {% include button.html text="Donate💲" link="https://rzp.io/l/GODFATHERDONATIONS" color="#f68140" %}
+{% include button.html text="Follow me" icon="github" link="https://github.com/AMANTYA1" color="#0366d6" %} {% include button.html text="Add Zaid Robot ➕" link="https://t.me/Zaid2_Robot?startgroup=true" color="#f68140" %} {% include button.html text="Support" icon="telegram" link="https://t.me/Superior_Support" color="#0d94e7" %} {% include button.html text="Updates Channel ⚗️" link="https://t.me/Superior_Bots" %} {% include button.html text="Donate💲" link="https://rzp.io/l/GODFATHERDONATIONS" color="#f68140" %}
 
 ## Features
 
-- **ɪ ᴄᴀɴ ᴅᴏ ᴀ ᴠᴀʀɪᴇᴛʏ ᴏꜰ ᴛʜɪɴɢꜱ, ᴍᴏꜱᴛ ᴄᴏᴍᴍᴏɴ ᴏꜰ ᴇᴍ ᴀʀᴇ**:
-- ʀᴇꜱᴛʀɪᴄᴛ ᴜꜱᴇʀꜱ ᴡɪᴛʜ ʙᴀɴ ᴘᴇʀᴍɪꜱꜱɪᴏɴꜱ.
-- ɢʀᴇᴇᴛ ᴜꜱᴇʀꜱ ᴡɪᴛʜ ᴍᴇᴅɪᴀ + ᴛᴇxᴛ ᴀɴᴅ ʙᴜᴛᴛᴏɴꜱ, ᴡɪᴛʜ ᴘʀᴏᴘᴇʀ ꜰᴏʀᴍᴀᴛᴛɪɴɢ.
-- ʀᴇꜱᴛʀɪᴄᴛ ᴜꜱᴇʀꜱ ᴡʜᴏ ꜰʟᴏᴏᴅ ʏᴏᴜʀ ᴄʜᴀᴛ ᴜꜱɪɴɢ ᴍʏ ᴀɴᴛɪ-ꜰʟᴏᴏᴅ ᴍᴏᴅᴜʟᴇ.
-- ᴡᴀʀɴ ᴜꜱᴇʀꜱ ᴀᴄᴄᴏʀᴅɪɴɢ ᴛᴏ ᴛʜᴇ ᴏᴘᴛɪᴏɴꜱ ꜱᴇᴛ ᴀɴᴅ ʀᴇꜱᴛʀɪᴄᴛ ᴇᴍ ᴀᴄᴄᴏʀᴅɪɴɢʟʏ.
-- ꜱᴀᴠᴇ ɴᴏᴛᴇꜱ ᴀɴᴅ ꜰɪʟᴛᴇʀꜱ ᴡɪᴛʜ ᴘʀᴏᴘᴇʀ ꜰᴏʀᴍᴀᴛᴛɪɴɢ ᴀɴᴅ ʀᴇᴘʟʏ ᴍᴀʀᴋᴜᴘ.
-- ʏᴏᴜ ᴄᴀɴ ᴘʟᴀʏ ꜱᴏɴɢꜱ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ/ᴄʜᴀɴɴᴇʟ ᴠᴄ ᴄʜᴀᴛ
-- ʏᴏᴜ ᴄᴀɴ ꜰɪɴᴅ ᴀɴʏᴏɴᴇ ɴᴀᴍᴇ ʜɪꜱᴛᴏʀʏ ᴜꜱɪɴɢ ᴢᴀɪᴅ ʀᴏʙᴏᴛ
-- ᴛʀʏ `/setlang` ᴛᴏ ᴄʜᴀɴɢᴇ ᴛʜᴇ ʙᴏᴛ ʟᴀɴɢᴜᴀɢᴇ (ɴᴏᴛᴇ ᴄᴜʀʀᴇɴᴛʟʏ ɪꜱ ᴇɴɢʟɪꜱʜ ꜱᴜᴘᴘᴏʀᴛᴇᴅ)
-- ɪ ʜᴀᴠᴇ ʟᴏᴛꜱ ᴏꜰ ꜰᴇᴀᴛᴜʀᴇꜱ ᴡʜɪᴄʜ ʏᴏᴜ ʟɪᴋᴇ.
-- ᴛʜᴇʀᴇꜱ ᴇᴠᴇɴ ᴍᴏʀᴇ! ᴛʜɪꜱ ɪꜱ ᴊᴜꜱᴛ ᴛʜᴇ ᴛɪᴘ ᴏꜰ ᴛʜᴇ ɪᴄᴇʙᴇʀɢ. ᴅᴏ ɴᴏᴛᴇ ɪ ɴᴇᴇᴅ
-ᴛᴏ ʙᴇ ᴘʀᴏᴍᴏᴛᴇᴅ ᴡɪᴛʜ ᴘʀᴏᴘᴇʀ ᴀᴅᴍɪɴ ᴘᴇʀᴍɪꜱꜱɪᴏɴꜱ ᴛᴏ ꜰᴜɴᴄᴛɪᴏɴ ᴘʀᴏᴘᴇʀʟʏ. 
-ᴇʟꜱᴇ ɪ ᴡᴏɴ'ᴛ ʙᴇ ᴀʙʟᴇ ᴛᴏ ꜰᴜɴᴄᴛɪᴏɴ ᴀꜱ ꜱᴀɪᴅ.
-- [Go To Zaid Robot Pm](https://t.me/Zaid2_Robot)
+-Expert commands
+
+- 👥 Available to all users
+- 👮🏻 Available to Admins&Moderators
+- 🕵🏻 Available to Admins
+
+- 👥 /makeqr ,  to make qr .
+
+- Pinned Messages
++ 🕵🏻 /pin message sends the message through the Bot and pins it.
+- 🕵🏻 /pin pins the message in reply.
+- 🕵🏻 /repin removes and pins again the current pinned message, with notification!
+- 👥 /pinned refers to the current pinned message.
+
+- 🕵🏻  /list sends in private chat the list of users of the group with the number of messages sent by them.
+- 🕵🏻 /logo to get logo
+
+- 🕵🏻  /write to get hand written logo.
+
+- ✗ Pᴏᴡᴇʀᴇᴅ 🔥 Bʏ: Kɪɢᴏ!
+
+- [Go To KIGO](https://t.me/Kigo_omfobot)
 
 ### Quick setup Guide
 
-The first thing to do is to [Add Zaid](https://t.me/Zaid2_Robot?startgroup=true) to your group! For doing that, press the link and select your group
-- {% include button.html text="Add Zaid To Your Chat" link="https://t.me/Zaid2_Robot?startgroup=true" color="#24292e" %}
+The first thing to do is to [Add KIGO](https://t.me/Kigo_omfobot?startgroup=true) to your group! For doing that, press the link and select your group
+- {% include button.html text="Add KIGO To Your Chat" link="https://t.me/Kigo_omfobot?startgroup=true" color="#24292e" %}
 
 **Now for let me work correctly, you need to make me Admin of your Group!**
 
-To do that, follow this easy steps: 
+To do that, (follow)[https://telegra.ph/file/cb38e3d40b4c88ba9c597.mp4] this easy steps: 
 - ▫️ Go to your group
 - ▫️ Press the Group's name
 - ▫️ Press Modify
@@ -53,7 +61,7 @@ Using the `/settings` command you have at your disposal a series of things that 
 
 ## Basic Information
 
-Here is the Some Basic Information about Zaid
+Here is the Some Basic Information about (KIGO)[https://telegra.ph/file/48bb296808bdc98263424.jpg]
 
 - Base Commands.
 - 👮🏻Available to Admins&Moderators.
@@ -85,15 +93,4 @@ Here is the Some Basic Information about Zaid
 
 - ◽️ `/feedback`: (message) to Send message and errors which you are facing 
 - ex: `/feedback Hey There Is a Something Error @username of chat`!.
-
-
-### Donation?
-
-**Your Small supports Can Make Affective Zaid on Telegram**
-
-- [Via Indian Banking/wallet/UPI etc](https://rzp.io/l/GODFATHERDONATIONS)
-
-- [Via Paypal](https://www.paypal.me/mrakki58)
-
-- Crypto Wallet BTC. `bc1q2jfgvczeye5e6kduvfayhwj6lkwkcjr4u70v34`
 
