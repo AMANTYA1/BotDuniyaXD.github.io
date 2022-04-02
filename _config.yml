@@ -39,15 +39,15 @@ paginate: 2 # jekyll-paginate > items per page
 paginate_path: blog/page:num # jekyll-paginate > blog page
 jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
 twitter:
-  username: Timesisnotwaiting # jekyll-seo-tag > Owners twitter username
-author: Timesisnotwaiting # jekyll-seo-tag > default author
+  username: Shubhanshutya # jekyll-seo-tag > Owners twitter username
+author: Shubhanshutya # jekyll-seo-tag > default author
 social: # jekyll-seo-tag > social overrides
-  name: Zaid Robot # jekyll-seo-tag > real name
+  name: BotDuniyaXd # jekyll-seo-tag > real name
   links:  # jekyll-seo-tag > social aliases (sameAs)
-    - https://t.me/Timesisnotwaiting
+    - https://t.me/Shubhanshutya
     - https://www.facebook.com/daviddarnes
     - https://www.linkedin.com/in/daviddarnes
-    - https://github.com/ITZ-ZAID
+    - https://github.com/AMANTYA1
 # markdown: CommonMark # Markdown parse settings, CommonMark performs slightly better an others in build time
 # commonmark:
   # options: ["SMART", "FOOTNOTES"]
@@ -93,14 +93,14 @@ defaults:
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
-title: "ZaidRobot" # Site name or title, also used in jekyll-seo-tag
-logo: "https://telegra.ph/file/80be795777e4a60e27f7d.png" # Site logo, also used in jekyll-seo-tag
-description: "Zaid is a telegram management bot projects." # Site description and default description, also used in jekyll-seo-tag
-url: "https://zaid-robot.github.io/" # Site url, also used in jekyll-seo-tag
+title: "BotDuniyaXd" # Site name or title, also used in jekyll-seo-tag
+logo: "https://telegra.ph/file/7ac332911fd87b7482e8f.jpg" # Site logo, also used in jekyll-seo-tag
+description: "BotDuniya is a telegram channel to our bot projects." # Site description and default description, also used in jekyll-seo-tag
+url: "https://BotDuniyaXd.github.io/" # Site url, also used in jekyll-seo-tag
 baseurl: ""
-repo: "https://github.com/ZAID-ROBOT/Zaid-Robot.github.io"
-email: "itsunknown122@gmail.com"
-# disqus: "Zaid-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
+repo: "https://github.com/AMANTYA1/BotDuniyaXd.github.io"
+email: "nullcooder@gmail.com"
+# disqus: "BotDuniyaXd-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 # date_format: "%-d %B %Y" # Blog post date formatting using placeholder formatting
 # google_analytics: ""
 # google_analytics_anonymize_ip: ""
@@ -125,18 +125,17 @@ navigation_header:
   url: /
 - title: Support
   url: /elements/
-- title: follow Zaid
-  url: https://github.com/ITZ-ZAID
+- title: follow Shubhanshutya
+  url: https://github.com/AMANTYA1
 
 navigation_footer:
-- title: Created by Zaid Owner
-  url: https://t.me/Timesisnotwaiting
+- title: Created by Null CODER
+  url: https://t.me/Shubhanshutya
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
-  Telegram: https://ITZ-ZAID
-  Youtube: https://youtube.com/channel/UCfvofekKdV74d9S9-FssY3A
-  GitHub: https://github.com/ITZ-ZAID
-  link: https://t.me/Timesisnotwaiting
+  Telegram: https://Kigo_omfobot
+  GitHub: https://github.com/AMANTYA1
+  link: https://t.me/Shubhanshutya
   RSS: /feed.xml
 
 sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
