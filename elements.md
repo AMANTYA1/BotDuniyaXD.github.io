@@ -19,9 +19,9 @@ aside: true
 
 ### Ask Questions To My Owner
 
-{% include button.html text="Email" link="itsunknown122@gmail.com" %}
+{% include button.html text="Email" link="nullcooder@gmail.com" %}
 
-{% include button.html text="Instagram" link="https://www.instagram.com/timesisnotwaiting/" icon="instagram" %}
+{% include button.html text="Instagram" link="https://www.instagram.com/Shubhanshu_myr_302/" icon="instagram" %}
 
-{% include button.html text="Telegram" link="https://t.me/Timesisnotwaiting" icon="telegram" %}
+{% include button.html text="Telegram" link="https://t.me/Shubhanshutya" icon="telegram" %}
 
