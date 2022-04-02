@@ -1,7 +1,7 @@
 ---
 title: About BotDuniya
 feature_text: |
-  ## Xd
+  ## Null-coder
   BotDuniyaXd open in 2022 By @Shubhanshutya ;)
 feature_image: "https://telegra.ph/file/a361ff4a8204370b24d95.jpg"
 excerpt: "This Website Designed By [Null Coder](https://t.me/Shubhanshutya) To Make Affective Information About BotDuniya."
@@ -9,7 +9,7 @@ excerpt: "This Website Designed By [Null Coder](https://t.me/Shubhanshutya) To M
 
 BOTDUNIYA Bot list  [here](https://t.me/BotDuniyaXD/23) Management, music, string Bot. Soon more.
 
-{% include button.html text="Follow me" icon="github" link="https://github.com/AMANTYA1" color="#0366d6" %} {% include button.html text="Add Zaid Robot ➕" link="https://t.me/Zaid2_Robot?startgroup=true" color="#f68140" %} {% include button.html text="Support" icon="telegram" link="https://t.me/Superior_Support" color="#0d94e7" %} {% include button.html text="Updates Channel ⚗️" link="https://t.me/Superior_Bots" %} {% include button.html text="Donate💲" link="https://rzp.io/l/GODFATHERDONATIONS" color="#f68140" %}
+{% include button.html text="Follow me" icon="github" link="https://github.com/AMANTYA1" color="#0366d6" %} {% include button.html text="Add KIGO " link="https://t.me/Kigo_omfobot?startgroup=true" color="#f68140" %} {% include button.html text="Support" icon="telegram" link="https://t.me/godzilla_chatting" color="#0d94e7" %} {% include button.html text="Updates Channel ⚗️" link="https://t.me/BotDuniyaXd" %}
 
 ## Features
 
@@ -36,24 +36,14 @@ BOTDUNIYA Bot list  [here](https://t.me/BotDuniyaXD/23) Management, music, strin
 
 - [Go To KIGO](https://t.me/Kigo_omfobot)
 
----
-title: About BotDuniya
-feature_text: |
-  ## Xd
-  BotDuniyaXd open in 2022 By @Shubhanshutya ;)
-feature_image: "https://telegra.ph/file/a361ff4a8204370b24d95.jpg"
-excerpt: "This Website Designed By [Null Coder](https://t.me/Shubhanshutya) To Make Affective Information About BotDuniya."
----
-
 ### Quick setup Guide
 
-feature_video: "https://telegra.ph/file/cb38e3d40b4c88ba9c597.mp4"
 The first thing to do is to [Add KIGO](https://t.me/Kigo_omfobot?startgroup=true) to your group! For doing that, press the link and select your group
 - {% include button.html text="Add KIGO To Your Chat" link="https://t.me/Kigo_omfobot?startgroup=true" color="#24292e" %}
 
 **Now for let me work correctly, you need to make me Admin of your Group!**
 
-To do that, (follow)[https://telegra.ph/file/cb38e3d40b4c88ba9c597.mp4] this easy steps: 
+To do that, [follow](https://telegra.ph/file/cb38e3d40b4c88ba9c597.mp4) this easy steps: 
 - ▫️ Go to your group
 - ▫️ Press the Group's name
 - ▫️ Press Modify
