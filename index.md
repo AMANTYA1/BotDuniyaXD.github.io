@@ -3,7 +3,7 @@ title: About BotDuniya
 feature_text: |
   ## Xd
   BotDuniyaXd open in 2022 By @Shubhanshutya ;)
-feature_image: "https://telegra.ph/file/7ac332911fd87b7482e8f.jpg"
+feature_image: "https://telegra.ph/file/a361ff4a8204370b24d95.jpg"
 excerpt: "This Website Designed By [Null Coder](https://t.me/Shubhanshutya) To Make Affective Information About BotDuniya."
 ---
 
@@ -38,6 +38,7 @@ BOTDUNIYA Bot list  [here](https://t.me/BotDuniyaXD/23) Management, music, strin
 
 ### Quick setup Guide
 
+feature_video: "https://telegra.ph/file/cb38e3d40b4c88ba9c597.mp4"
 The first thing to do is to [Add KIGO](https://t.me/Kigo_omfobot?startgroup=true) to your group! For doing that, press the link and select your group
 - {% include button.html text="Add KIGO To Your Chat" link="https://t.me/Kigo_omfobot?startgroup=true" color="#24292e" %}
 
