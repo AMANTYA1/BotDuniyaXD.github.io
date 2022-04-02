@@ -43,7 +43,7 @@ The first thing to do is to [Add KIGO](https://t.me/Kigo_omfobot?startgroup=true
 
 **Now for let me work correctly, you need to make me Admin of your Group!**
 
-To do that, [follow](https://telegra.ph/file/cb38e3d40b4c88ba9c597.mp4) this easy steps: 
+To do that, follow this easy steps: 
 - ▫️ Go to your group
 - ▫️ Press the Group's name
 - ▫️ Press Modify
@@ -57,7 +57,7 @@ To do that, [follow](https://telegra.ph/file/cb38e3d40b4c88ba9c597.mp4) this eas
 
 Using the `/settings` command you have at your disposal a series of things that can be modified how you prefer, as required for your group.
 
-- Join also To Our [Support](https://t.me/Superior_Support) and [Updates Channel](https://t.me/Superior_Bots) to Get Letest News
+- Join also To Our [Support](https://t.me/godzilla_chatting) and [Updates Channel](https://t.me/BotDuniyaXd) to Get Letest News
 
 ## Basic Information
 
