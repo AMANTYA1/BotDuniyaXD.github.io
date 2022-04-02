@@ -3,7 +3,7 @@ title: About BotDuniya
 feature_text: |
   ## Null-coder
   BotDuniyaXd open in 2022 By @Shubhanshutya ;)
-feature_image: "https://telegra.ph/file/a361ff4a8204370b24d95.jpg"
+feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "This Website Designed By [Null Coder](https://t.me/Shubhanshutya) To Make Affective Information About BotDuniya."
 ---
 
